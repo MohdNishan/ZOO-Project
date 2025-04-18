@@ -37,4 +37,11 @@
 # End of c++
 
 debug.log
-tmp
+
+
+# Build and cache folders
+docs/_build/
+__pycache__/
+docker/tmp/
+testing/tmp/
+.vscode/
